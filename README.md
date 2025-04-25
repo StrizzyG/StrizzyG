@@ -12,7 +12,7 @@ Online, I go by **StrizzyG** — it's the name I use on YouTube, GitHub, and my 
 ## 🔗 My links
 - 💻 [GitHub Portfolio](https://github.com/strizzyg)
 - 📚 [Coding Courses @ StrizzyG.com](https://strizzyg.com)
-- 📺 [YouTube Channel]([https://www.youtube.com/@Strizzy_GG])
+- 📺 [YouTube Channel](https://www.youtube.com/@Strizzy_GG)
 
 ---
 
